@@ -4,10 +4,10 @@ from functions import calculo_resultados
 
 
 # ----- Dataset Imports ------
-df_crossprice = pd.read_csv('D:/Comunidade DS/Portifólio de Projetos/repos/ds_elasticidade/datasets/crossprice.csv')
-df_elasticity = pd.read_csv('D:/Comunidade DS/Portifólio de Projetos/repos/ds_elasticidade/datasets/df_elasticity.csv')
-x_price = pd.read_csv('D:/Comunidade DS/Portifólio de Projetos/repos/ds_elasticidade/datasets/x_price.csv')
-y_demand = pd.read_csv('D:/Comunidade DS/Portifólio de Projetos/repos/ds_elasticidade/datasets/y_demand.csv')
+df_crossprice = pd.read_csv('datasets/crossprice.csv')
+df_elasticity = pd.read_csv('datasets/df_elasticity.csv')
+x_price = pd.read_csv('datasets/x_price.csv')
+y_demand = pd.read_csv('datasets/y_demand.csv')
 
 st.title('Elasticidade de preço')
 
