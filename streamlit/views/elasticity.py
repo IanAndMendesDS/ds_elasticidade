@@ -11,7 +11,7 @@ y_demand = pd.read_csv('datasets/y_demand.csv')
 
 st.title('Elasticidade de preço')
 
-product_name = st.selectbox('Escolha a(s) loja(s):',x_price.columns.drop('week_number'))
+product_name = st.selectbox('Escolha o produto:',x_price.columns.drop('week_number'))
 
 
 x = df_elasticity.loc[df_elasticity['name'] == product_name]
