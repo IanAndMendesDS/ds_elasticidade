@@ -2,11 +2,7 @@
 
 import numpy            as np
 import pandas           as pd
-import seaborn          as sns
 import streamlit        as st
-
-from matplotlib         import pyplot as plt
-
 
 # ----- Page Setup ------
 
@@ -34,7 +30,7 @@ pg = st.navigation(
 # ------ Side Bar ----------
 
 # URLs 
-github_url = "https://github.com/IanAndMendesDS/ds_producao"
+github_url = "https://github.com/IanAndMendesDS/ds_elasticidade"
 linkedin_url = "https://www.linkedin.com/in/ian-andrade/"
 portfolio_url = "https://ianandmendesds.github.io/portifolio_projetos/"
 
