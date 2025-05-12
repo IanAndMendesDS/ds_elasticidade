@@ -1,8 +1,5 @@
-# Insiders Clustering
+# Elasticidade de Preço
 
-## This projets has a gol to discovery similarity people to join a loyalty probram
-
-#### This project was made by Meigarom Lopes.
 
 # 1. Business Problem.
 
@@ -58,6 +55,3 @@ My strategy to solve this challenge was:
 
 # 10. Next Steps to Improve
 
-# LICENSE
-
-# All Rights Reserved - Comunidade DS 2021
