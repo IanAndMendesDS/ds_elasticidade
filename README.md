@@ -1,57 +1,13 @@
-# Elasticidade de Preço
+# Elasticidade de preço
 
+Esse é um projeto end-to-end de Data Science com modelo de regressão linear aplicada com o intuito de encontrar a elasticidade de preço dos produtos. No qual foi identificado a elasticidade de todos os produtos e como a mudança de preços de um produto afetam na categoria. Os resultados podem ser acessadas pelo usuário por meio do link, aplicando o desconto no produto e visualizando como isso afeta no faturamento anual da categoria.
 
-# 1. Business Problem.
+# 1. Problema de negócio
 
-# 2. Business Assumptions.
+# 2. Descrição dos dados
 
-# 3. Solution Strategy
+# 3. Estratégia de solução
 
-My strategy to solve this challenge was:
+## 3.1 Fases do CRISP-DM
 
-**Step 01. Data Description:**
-
-**Step 02. Feature Engineering:**
-
-**Step 03. Data Filtering:**
-
-**Step 04. Exploratory Data Analysis:**
-
-**Step 05. Data Preparation:**
-
-**Step 06. Feature Selection:**
-
-**Step 07. Machine Learning Modelling:**
-
-**Step 08. Hyperparameter Fine Tunning:**
-
-**Step 09. Convert Model Performance to Business Values:**
-
-**Step 10. Deploy Modelo to Production:**
-
-# 4. Top 3 Data Insights
-
-**Hypothesis 01:**
-
-**True/False.**
-
-**Hypothesis 02:**
-
-**True/False.**
-
-**Hypothesis 03:**
-
-**True/False.**
-
-# 5. Machine Learning Model Applied
-
-# 6. Machine Learning Modelo Performance
-
-# 7. Business Results
-
-# 8. Conclusions
-
-# 9. Lessons Learned
-
-# 10. Next Steps to Improve
-
+## 3.2 Ferramentas utilizadas
